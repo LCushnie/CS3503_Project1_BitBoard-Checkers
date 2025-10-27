@@ -26,7 +26,7 @@ make
  - Pieces reaching the opposite side are promoted to kings 👑 automatically.
  - The game ends when one player has no pieces left.
 
-## Sample outputs (full details in output.txt):
+## Sample output of text
 ```=== BitBoard Checkers ===
 Current turn: Red
 Enter move like C6 D5 or C6 E4
